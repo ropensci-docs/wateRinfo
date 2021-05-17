@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c23945909ad9ad9b85f4039530bd4cf66b87035a",
+    "author": "Peter Desmet <peter.desmet@inbo.be>",
+    "time": "2021-05-17 13:52:45",
+    "files": 1,
+    "merge": false,
+    "message": "Disable R dev tests #86"
+  },
+  "remote": "https://github.com/ropensci/wateRinfo",
+  "pkg": "wateRinfo"
+}
