@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4511f52e315877078a38a4354613a2223e0c917a",
+    "author": "peterdesmet <peter.desmet@inbo.be>",
+    "time": "2022-07-07 16:48:19",
+    "files": 3,
+    "merge": false,
+    "message": "usethis::use_github_action_check_standard()\n"
+  },
+  "repo": "https://github.com/ropensci/wateRinfo",
+  "pkg": "wateRinfo"
+}
