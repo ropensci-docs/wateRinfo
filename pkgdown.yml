@@ -1,0 +1,11 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  define_date_periods: define_date_periods.html
+  download_timeseries_batch: download_timeseries_batch.html
+  wateRinfo: wateRinfo.html
+last_built: 2026-08-30T07:54Z
+urls:
+  reference: https://docs.ropensci.org/wateRinfo/reference
+  article: https://docs.ropensci.org/wateRinfo/articles
